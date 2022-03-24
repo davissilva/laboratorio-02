@@ -28,3 +28,20 @@ Sistema de Aluguel de Carros.
 * US10 - Como agente, eu quero ser informado quando um pedido for cancelado, para dimensionar melhor o meu trabalho.
 * US11 - Como agente, eu quero ser informado quando um pedido for modificado, para alterar a preparação da análise.
 
+## Executar
+
+### Backend
+
+```
+cd Implementacao 
+mvn spring-boot:run
+```
+
+### Frontend
+
+http://localhost:3030
+
+```
+cd Implementacao/frontend
+npm start
+```

@@ -9,30 +9,30 @@ import javax.persistence.GenerationType;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "client")
-public class Client {
+@Table(name = "usuario")
+public class Usuario {
 
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
     private Long id;
 
-    private String name;
-    private String email;
+    private String login;
+    private String senha;
 
-    public String getName() {
-        return name;
+    public String getLogin() {
+        return login;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setLogin(String login) {
+        this.login = login;
     }
 
-    public String getEmail() {
-        return email;
+    public String getSenha() {
+        return senha;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
+    public void setSenha(String senha) {
+        this.senha = senha;
     }
 
     public Long getId() {
