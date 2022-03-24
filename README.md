@@ -39,6 +39,8 @@ Sistema de Aluguel de Carros.
 
 ## Instruções para execução do programa
 
+![Instruções para execução do programa]
+
 ### Backend
 
 ```
