@@ -8,7 +8,7 @@
 
 - [Diagrama de Classes e Pacotes](#Diagrama_de_classes_e_pacotes)
 
-- [Instruções para execução do programa](#Instrucoes_para_execucao_do_programa)
+- [Instruções para execução do programa](#Instruções_para_execução_do_programa)
 
 ## Definições
 
