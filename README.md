@@ -6,7 +6,7 @@
 
 - [Histórias do Usuário](#histórias-do-usuário)
 
-- [Diagrama de Classe](#Diagrama_de_classe)
+- [Diagrama de Classes e Pacotes](#Diagrama_de_classes_e_pacotes)
 
 ## Definições
 
@@ -33,7 +33,7 @@ Sistema de Aluguel de Carros.
 
 ## Diagrama de classe e pacotes
 
-![Diagrama_de_classe](./projeto/Print%20-%20Diagrama%20de%20Classe.png)
+![Diagrama_de_classe_e_Pacotes](./projeto/Print%20-%20Diagrama%20de%20Classe%20e%20Pacotes.png)
 
 ## Executar
 
