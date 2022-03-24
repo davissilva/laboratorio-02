@@ -6,6 +6,8 @@
 
 - [Histórias do Usuário](#histórias-do-usuário)
 
+- [Diagrama de Classe](#Diagrama_de_classe)
+
 ## Definições
 
 Sistema de Aluguel de Carros.
@@ -27,6 +29,11 @@ Sistema de Aluguel de Carros.
 * US09 - Como agente, eu quero ser informado quando houver um novo pedido de locação, para preparar a análise.
 * US10 - Como agente, eu quero ser informado quando um pedido for cancelado, para dimensionar melhor o meu trabalho.
 * US11 - Como agente, eu quero ser informado quando um pedido for modificado, para alterar a preparação da análise.
+
+
+## Diagrama de classe e pacotes
+
+![Diagrama_de_classe](./projeto/Print%20-%20Diagrama%20de%20Classe.png)
 
 ## Executar
 
