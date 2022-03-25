@@ -1,7 +1,10 @@
-ToDo List
+# ToDo List
+Lab02S03: Implementação de um protótipo do sistema, que permita que os usuários criados possam criar e visualizar o status de um pedido de aluguel;
+
 - [ ] Separar pacotes controller e model
 - [ ] View
-  - [ ] CadastroInicial
+  - [ ] CadastroInicial (João)
+  - [ ] Página inicial (João)
   - [x] Usuario view
   - [ ] Clientview
   - [ ] PedidoAluguel view
