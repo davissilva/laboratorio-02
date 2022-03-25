@@ -41,7 +41,7 @@ Sistema de Aluguel de Carros.
 
 ## Diagrama de Componentes
 
-![Diagrama_de_componentes](./projeto/Diagrama%20Classes%20de%20Componentes.png)
+![Diagrama_de_componentes](./projeto/Diagrama%20de%20Componentes.png)
 
 ## Instruções para execução do programa
 
