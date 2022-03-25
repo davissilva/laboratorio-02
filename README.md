@@ -10,6 +10,8 @@
 
 - [Diagrama de Componentes](#diagrama_de_componentes)
 
+- [Instruções para execução do programa](#intruções_para_execução_do_programa) 
+
 ## Definições
 
 Sistema de Aluguel de Carros.
@@ -35,13 +37,13 @@ Sistema de Aluguel de Carros.
 
 ## Diagrama de classe e pacotes
 
-![Diagrama_de_classe_e_Pacotes](./projeto/Print%20-%20Diagrama%20de%20Classe%20e%20Pacotes.png)
+![Diagrama_de_classe_e_Pacotes](./projeto/Print%20-%20Diagrama%20de%20Classes%20e%20Pacotes.png)
 
 ## Diagrama de Componentes
 
 ![Diagrama_de_componentes](./projeto/Diagrama%20de%20Classe%20de%20Componentes.png)
 
-## Executar
+## Instruções para execução do programa
 
 ### Backend
 
