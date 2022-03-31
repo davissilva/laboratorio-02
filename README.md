@@ -6,7 +6,11 @@
 
 - [Histórias do Usuário](#histórias-do-usuário)
 
-- [Diagrama de Classe](#Diagrama_de_classe)
+- [Diagrama de Classes e Pacotes](#diagrama_de_classes_e_pacotes)
+
+- [Diagrama de Componentes](#diagrama_de_componentes)
+
+- [Instruções para execução do programa](#intruções_para_execução_do_programa) 
 
 ## Definições
 
@@ -33,9 +37,13 @@ Sistema de Aluguel de Carros.
 
 ## Diagrama de classe e pacotes
 
-![Diagrama_de_classe](./projeto/Print%20-%20Diagrama%20de%20Classe.png)
+![Diagrama_de_classe_e_Pacotes](./projeto/Diagrama%20de%20Classes%20e%20Pacotes.png)
 
-## Executar
+## Diagrama de Componentes
+
+![Diagrama_de_componentes](./projeto/Diagrama%20de%20Componentes.png)
+
+## Instruções para execução do programa
 
 ### Backend
 
