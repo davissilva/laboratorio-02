@@ -10,6 +10,8 @@
 
 - [Diagrama de Componentes](#diagrama_de_componentes)
 
+- [Diagrama de Implantação](#diagrama_de_implantação)
+
 - [Instruções para execução do programa](#intruções_para_execução_do_programa) 
 
 ## Definições
@@ -42,6 +44,10 @@ Sistema de Aluguel de Carros.
 ## Diagrama de Componentes
 
 ![Diagrama_de_componentes](./projeto/Diagrama%20de%20Componentes.png)
+
+## Diagrama de Implantação
+
+![Diagrama_de_Implantação](./projeto/Print%20-%20Diagrama%20de%20Implantação.png)
 
 ## Instruções para execução do programa
 
