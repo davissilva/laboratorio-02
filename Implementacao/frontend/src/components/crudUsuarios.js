@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import Menu from './menu'
 import styled from 'styled-components'
 
-const HEADERS = {
+export const HEADERS = {
   'Accept': 'application/json',
   'Content-Type': 'application/json'
 }

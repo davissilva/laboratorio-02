@@ -16,6 +16,7 @@ const Menu = () => {
         {pages.filter(page => {
             if (page.label === 'Login' && isLogged) return false
             if (page.label === 'Logout' && !isLogged) return false
+            if(page.label === 'Pedido de Aluguel' && !isLogged) return false
             return true
         }).map((page, i) => <a key={i} href={page.path}>{page.label}</a>)}
         {isLogged && <>
