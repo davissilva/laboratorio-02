@@ -1,5 +1,4 @@
-package com.LabDS02;
-
+package com.LabDS02.model;
 
 import javax.persistence.*;
 
@@ -8,10 +7,10 @@ import javax.persistence.*;
 public class Usuario {
 
     @Id
-    @GeneratedValue(strategy= GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(unique=true)
+    @Column(unique = true)
     private String login;
     private String senha;
 

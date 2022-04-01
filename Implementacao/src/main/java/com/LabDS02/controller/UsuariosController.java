@@ -1,5 +1,7 @@
-package com.LabDS02;
+package com.LabDS02.controller;
 
+import com.LabDS02.model.UsuariosRepository;
+import com.LabDS02.model.Usuario;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

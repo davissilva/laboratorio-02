@@ -10,15 +10,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LabDs02Application {
 
 	public static void main(String[] args) {
-		//SpringApplication.run(LabDs02Application.class, args);
+//		Automovel carro = new Automovel(100001, 2020, "UNO", "FIAT", "ABC1234");
+//
+//		Cliente cliente =  new Cliente("12345678", "123.456.789-21", "Davi", "Rua ABC", "PUC", 100000.0);
+//
+//
+//		System.out.println(carro);
+//		System.out.println(cliente.getNome());
 
-		Automovel carro = new Automovel(100001, 2020, "UNO", "FIAT", "ABC1234");
+		SpringApplication.run(LabDs02Application.class, args);
 
-		Cliente cliente =  new Cliente("12345678", "123.456.789-21", "Davi", "Rua ABC", "PUC", 100000.0);
-
-
-		System.out.println(carro);
-		System.out.println(cliente.getNome());
 	}
 
 }
