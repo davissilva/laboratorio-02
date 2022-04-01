@@ -12,14 +12,14 @@ Lab02S03: Implementação de um protótipo do sistema, que permita que os usuár
   - [ ] PedidoAluguel Controller
   - [ ] Clientcontroller
   - [ ] Cadastro controller
-- [ ] Model(Davi) em desenvolvimento
-  - [ ] Cliente
+- [ ] Model(Davi) 
+  - [X] Cliente
   - [ ] Agente
   - [ ] Locadora
-  - [ ] Profissao
-  - [ ] TipoAgente
-  - [ ] Automovel
-  - [ ] PedidoAluguel
+  - [X] Profissao
+  - [X] TipoAgente
+  - [X] Automovel
+  - [X] PedidoAluguel
   - [ ] Aluguel
   - [ ] Contrato
   - [ ] Credito
